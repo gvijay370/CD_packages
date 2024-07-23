@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://github.com/gvijay370/CD_packages</url>
+      <url>https://maven.pkg.github.com/gvijay370/CD_packages</url>
 
     </repository>
   </distributionManagement>
